@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: che-cheia-branding-example
     source:
-      location: 'https://github.com/rahulkiit/che-theia-branding.git'
+      location: 'https://github.com/devsecopsacademy/che-editor.git'
       type: git
       branch: master
 components:
