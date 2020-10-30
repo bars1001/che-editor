@@ -2,7 +2,7 @@ apiVersion: 1.0.0
 metadata:
   name: che-theia-all
 projects:
-  - name: che-cheia-branding-example
+  - name: che-cheia
     source:
       location: 'https://github.com/devsecopsacademy/che-editor.git'
       type: git
