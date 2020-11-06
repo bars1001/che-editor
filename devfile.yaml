@@ -8,7 +8,8 @@ projects:
       type: git
       branch: master
 components:
-  - command:
+  - mountSources: true
+    command:
       - tail
     args:
       - '-f'
